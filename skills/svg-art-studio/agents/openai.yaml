@@ -1,0 +1,4 @@
+interface:
+  display_name: "SVG 绘画工作室"
+  short_description: "先聊清画风与姿势，再用代码绘制精细 SVG 并交付真实过程回放"
+  default_prompt: "请使用 $svg-art-studio 帮我画图；需求不完整时，先问我画风、姿势等关键偏好。"
